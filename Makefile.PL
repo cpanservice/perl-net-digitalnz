@@ -19,4 +19,5 @@ requires 	'Carp' => 0;
 #install_script  'bin/myscript';
 
 auto_install;
+repository 'http://github.com/Br3nda/perl-net-digitalnz';
 WriteAll;
